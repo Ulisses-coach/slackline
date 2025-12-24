@@ -33,11 +33,11 @@ body {
     background-color: #f6f1ea;
     margin: 0px auto;
     text-align: center;
-    padding-left: 38%;
+    
     padding-right: 40px;
     padding-top: 25px;
     padding-bottom: 90px;
-    text-align: left;
+    
 }
 
 .menu>a {
@@ -158,7 +158,7 @@ a {
     height: 20%;
     text-align: center;
     color: black;
-    background-color: #00ff37;
+    background-color: brown;
 }
 .divpar p {
     font-size: 25px;
